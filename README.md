@@ -38,16 +38,11 @@ The objective of this project is to design, develop, and deploy a custom remote-
 ## Project Timeline
 
 - **Phase 1: Prototype Development**
-  - Assemble prototype using available kits and components.
-  - Test and refine initial design to understand requirements.
+  - June - July
 - **Phase 2: Custom Drone Design and Development**
-  - Design and 3D print the custom drone frame.
-  - Integrate powerful motors, custom electronics, and embedded software.
-  - Test and optimize the drone's performance and stability.
+  - July - August
 - **Phase 3: Autonomous Features and Advanced Capabilities**
-  - Implement and test autonomous navigation and control features.
-  - Develop and integrate advanced FPV and telemetry systems.
-  - Finalize PCB design and prepare the drone for competition submission.
+  - September - October
 
 ## Success Criteria
 
